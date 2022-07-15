@@ -1,0 +1,22 @@
+{
+    "name": "Track-My-Budget",
+    "short_name": "Budget Tracker",
+    "icons": [
+      {
+        "src": "./icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "./icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "/",
+    "description": "An application that allows a user to add expenses and deposits to their budget with or without a connection",
+    "background_color": "#1d9186",
+    "theme_color": "#ffffff"
+  }
