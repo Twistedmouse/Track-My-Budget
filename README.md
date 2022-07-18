@@ -4,6 +4,8 @@ Simple Budget tracking application PWA (Progressive Web Application). Allows the
 
 ## Usage
 
+---
+
 This software needs access to a mongoDB database for storage of persistent information. For local deployment/testing all database credentials should be stored in `.env`. An example has been provided.
 
 To use the program simply run the program from your preferred terminal and follow the prompts.
@@ -12,7 +14,13 @@ To use the program simply run the program from your preferred terminal and follo
 
 ## Demo
 
+---
+
+![](public/icons/CPT2207181618-860x915.gif)
+
 ## Technologies
+
+---
 
 <ul>
 <li>Node.js
@@ -27,6 +35,8 @@ To use the program simply run the program from your preferred terminal and follo
 </ul>
 
 ## Questions
+
+---
 
 For any questions and support please contact Tristan Fontanini.
 
